@@ -1,2 +1,6 @@
-# Auto-Learn-Nexus-
-the modeling method of an autonomous machine learning using a process of the task execution on machine learning . The proposed task ontology-based machine learning model de fines a task-based process grouping scheme of UML activities and it will automatically generate the machine learning models by transformation rules based on common elements 
+# Auto-Learn-Nexus-A Task-Ontology Driven Framework for Fully Autonomous Machine Learning Model Generation
+The artificial intelligence technology is currently used in almost all industries, and many machine learning experts are working on integrating and standardizing various machine learning tools so that non-experts can easily apply them to their domain. 
+The researchers are also studying an autonomous machine learning as well as ontology construction for standardizing the machine learning concepts.
+In this I classify typical problem solving steps for autonomous machine learning as tasks, and present a problem solving process. I propose the modeling method of an autonomous machine learning using a process of the task execution on machine learning such as workflow. 
+The proposed task ontology-based machine learning model de fines a task-based process grouping scheme of UML activities. And it will automatically generate and extend the machine learning models by transformation rules based on common elements and structures (relationships and processes between elements).  
+I authored a presentation covering this topic 
